@@ -1,4 +1,4 @@
-# Commercial Analytics Case Study – Customer Acquisition & Profitability Analysis
+# Commercial Analytics Case Study – Customer Acquisition & Profitability Analysis with Power BI
 
 This project demonstrates an end-to-end commercial analytics solution developed using SQL and Power BI. 
 The objective was to evaluate the profitability of customer acquisition channels by combining customer acquisition data, payment activity, and pricing rules to generate business insights and strategic recommendations.
