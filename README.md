@@ -203,3 +203,6 @@ Customer Distribution
 Cohort Retention Matrix
 Monthly Performance Trends
 
+<img width="1266" height="753" alt="image" src="https://github.com/user-attachments/assets/8cfe7baf-a443-485c-9295-2bb42206ec0f" />
+
+
